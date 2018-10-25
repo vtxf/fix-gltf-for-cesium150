@@ -1,3 +1,7 @@
+// 说明文章在这里：
+// https://zhuanlan.zhihu.com/p/46189487
+// https://www.jianshu.com/p/e0e0a62c5726
+
 var fixGltf = function(gltf) {
     if (!gltf.extensionsUsed) {
         return;
